@@ -6,3 +6,4 @@ Assumptions:
 4) There can be n number of failed consensus session on the same day but only 1 successful data commit in a single day.
 5) Data is immortalized for historical reference by storing in the event log.
 6) Once the majority is reached, the data is committed and session start time is set to the next day and any subsequent submissions are ignored. 
+7) Remove this
